@@ -35,12 +35,12 @@ For example, the UK deployed mitigation strategies later than others... can we b
 	* You would need people who come in and get diagnosed to report on when they first experienced symptoms, and then keep track of what days they went outside and were possibly exposed to the virus and try to extrapolate from there.
 * Worth going through the HackQuarantine doc of ideas as well
 * Predict to a granularity of countries since only like US, Italy, China that have decent regional division 
-* Blockchain in [medical supply chains](https://www.forbes.com/sites/nishandegnarain/2020/03/22/5-ways-blockchain-can-unblock-the-coronavirus-medical-supply-chain/#21530ebc1380){target = "_blank"}
+* Blockchain in [medical supply chains](https://www.forbes.com/sites/nishandegnarain/2020/03/22/5-ways-blockchain-can-unblock-the-coronavirus-medical-supply-chain/#21530ebc1380){:target = "_blank"}
 * BIM (Building Information Modeling) software that could inform hospitals how they can maximize their occupancy, or how to convert other non-traditional venues into pop-up hospitals. Solving for where to put the patients when they run out of hospital beds
 	* China was able to build a hospital in \~10 days to support the excess number of patients. Some hospitals/pharmacies are setting things up in parking lots such as fever clinics and drive through testing. 
 	* Access city data in hard hit regions in the world and identify where they could potentially set up additional hospital services given that most business have been ordered to remain closed. These could be sports arenas, stadiums, conference centers. Anything that meets the required utilities to help patients. For example, during Hurricane Katrina the state of Louisiana used the SuperDome where the New Orleans Saints play as a shelter for displaced families. 
 		* NOTE JONATHAN: use something like GIS with predictive analytics to locate where best to create temporary clinics based on factors?
-	* There is a business modeling software that currently exists called [AutoDesk Forge](https://forge.autodesk.com/en/docs/viewer/v2/developers_guide/overview/){target = "_blank"} that we could use that would intake the BIM data and render an image. 
+	* There is a business modeling software that currently exists called [AutoDesk Forge](https://forge.autodesk.com/en/docs/viewer/v2/developers_guide/overview/){:target = "_blank"} that we could use that would intake the BIM data and render an image. 
 	* Obstacles we may face: Getting that building data from hospitals/venues and learning how to use the software / access the necessary data
 * Develop a twitter bot that retweets the tweets of certified experts for each country
 	* Twitter API
