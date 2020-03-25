@@ -74,7 +74,7 @@ For example, the UK deployed mitigation strategies later than others... can we b
 * https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
 * https://corona.help/other-stats
 * Hack Quarantine resources: https://docs.google.com/document/d/1Y70ObSZCyB308QNbFXelNbl6GAWGfghWA_qJp96awOA/edit
-* https://github.blog/2020-03-23-open-collaboration-on-covid-19/ (a wealth of knowledge with good data sources and visualizations)
+* https://github.blog/2020-03-23-open-collaboration-on-covid-19/ (a wealth of knowledge with data sources and visualizations)
 
 
 
